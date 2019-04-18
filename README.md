@@ -144,7 +144,7 @@ glVertexAttribDivisor(kMyInstanceDataAttrib, 1);
 ```
 
 **列表7-6** OpenGL ES 3.0使用实例数组的顶点着色器
-```c
+```glsl
 #version 300 es
 
 layout(location = 0) in vec4 position;
